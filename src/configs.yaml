@@ -1,0 +1,4 @@
+configs:
+  - id: 0
+    title: "Hello!"
+    c: [0, 0.8]
